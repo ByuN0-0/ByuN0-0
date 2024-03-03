@@ -25,23 +25,23 @@ Here are some ideas to get you started:
           <FontAwesomeIcon className="social_ico" icon={faLocationDot} /> Location: 대한민국 서울
         </p>
         <p>
-          <FontAwesomeIcon className="social_ico" icon={faSquareEnvelope} /> Email:{" "}
+          <FontAwesomeIcon className="social_ico" icon={faSquareEnvelope} /> Email:
           <a href="mailto:isly7959@gmail.com">isly7959@gmail.com</a>
         </p>
         <p>
-          <FontAwesomeIcon className="social_ico" icon={faSquareInstagram} /> Instagram:{" "}
+          <FontAwesomeIcon className="social_ico" icon={faSquareInstagram} /> Instagram:
           <a href="https://www.instagram.com/byun.ej/" target="_blank" rel="noreferrer">
             @byun.ej
           </a>
         </p>
         <p>
-          <FontAwesomeIcon className="social_ico" icon={faSquareGithub} /> Github:{" "}
+          <FontAwesomeIcon className="social_ico" icon={faSquareGithub} /> Github:
           <a href="https://github.com/ByuN0-0" target="_blank" rel="noreferrer">
             ByuN0-0
           </a>
         </p>
         <p>
-          /&lt;&gt; Baekjoon:{" "}
+          /&lt;&gt; Baekjoon:
           <a href="https://www.acmicpc.net/user/islyee" target="_blank" rel="noreferrer">
             islyee
           </a>
