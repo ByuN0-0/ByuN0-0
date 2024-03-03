@@ -54,10 +54,7 @@ Here are some ideas to get you started:
         src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"
         alt="git"
       />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-
-<div className="contact-info">
-        <p>
+<p>
           <FontAwesomeIcon className="social_ico" icon={faLocationDot} /> Location: 대한민국 서울
         </p>
         <p>
@@ -82,4 +79,7 @@ Here are some ideas to get you started:
             islyee
           </a>
         </p>
-      </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
+        
+      
