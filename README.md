@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**ByuN0-0/ByuN0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=islyee)](https://solved.ac/islyee)
@@ -42,6 +25,3 @@ Here are some ideas to get you started:
 <p>Github:<a href="https://github.com/ByuN0-0" target="_blank" rel="noreferrer">ByuN0-0</a></p>
 <p>/&lt;&gt; Baekjoon:<a href="https://www.acmicpc.net/user/islyee" target="_blank" rel="noreferrer">islyee</a></p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-
-        
-      
