@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byun0-0&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byun0-0&show_icons=true&theme=dark)
 
 <a href="https://github.com/anuraghazra/github-readme-stats/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByuN0-0"></a><br>
 <br>
