@@ -45,7 +45,7 @@ I'm a Backend Developer using Java, Spring Currently, I'm working on [Current Pr
 - GitHub, Notion, Discord
 
 ## 📊 My GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=byun0-0&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 - Location: Seoul, South Korea
