@@ -55,4 +55,4 @@ I'm a Backend Developer using Java, Spring Currently, I'm working on [Current Pr
 - Instagram:<a href="https://www.instagram.com/byun.ej/" target="_blank" rel="noreferrer">@byun.ej</a></p>
 - Baekjoon:<a href="https://www.acmicpc.net/user/islyee" target="_blank" rel="noreferrer">islyee</a></p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=byun0-0&color=brightgreen)
