@@ -21,6 +21,28 @@ I'm a Backend Developer using Java, Spring Currently, I'm working on [Current Pr
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="aws" />
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" alt="docker" />
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" alt="git" />
+### Backend
+- Java, Python, C++
+- Spring, Spring Boot, Spring MVC, Spring Security
+- Android Studio
+
+### Frontend
+- React.js, Next.js, Javascript, TypeScript
+
+### DBMS
+- MySQL, PostgreSQL, MariaDB
+- MongoDB
+
+### DevOps
+- Git, GitHub, GitHub Actions
+- Docker, Docker compose
+- Kubernetes
+
+### Cloud Computing
+- AWS, GCP, Vercel
+
+### Communication Tool
+- GitHub, Notion, Discord
 
 ## 📊 My GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
@@ -28,8 +50,8 @@ I'm a Backend Developer using Java, Spring Currently, I'm working on [Current Pr
 ## 📫 How to reach me
 - Location: Seoul, South Korea
 - Email: [isly7959@gmail.com](mailto:isly7959@gmail.com)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
 - Blog:[개발 블로그](https://byun0-0.tistory.com/)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
 - Instagram:<a href="https://www.instagram.com/byun.ej/" target="_blank" rel="noreferrer">@byun.ej</a></p>
 - Baekjoon:<a href="https://www.acmicpc.net/user/islyee" target="_blank" rel="noreferrer">islyee</a></p>
 
