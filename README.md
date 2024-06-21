@@ -1,6 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=islyee)](https://solved.ac/profile/islyee/)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=islyee)](https://solved.ac/profile/islyee)
+# Hi there, I'm BiYeon 👋
+
+## About Me
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=islyee)](https://solved.ac/profile/islyee)<br>
+I'm a Backend Developer using Java, Spring Currently, I'm working on [Current Project/Work](https://github.com/HealthServiceForAll/HearUR-back).
+
+## 🚀 My Projects
+- [Project 1](https://github.com/ByuN0-0/CRM-Project): CRM-Platporm project
+- [Project 2](https://github.com/HealthServiceForAll/HearUR-back): Health Care Application
+
+## 🛠️ My Tech Stack
+<a href="https://github.com/anuraghazra/github-readme-stats/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByuN0-0"></a><br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" alt="react" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" alt="python" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="javascript"/>
@@ -11,17 +22,15 @@
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" alt="docker" />
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" alt="git" />
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=islyee)](https://solved.ac/profile/islyee/)
-<br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byun0-0&show_icons=true&theme=vue)
+## 📊 My GitHub Stats
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-<a href="https://github.com/anuraghazra/github-readme-stats/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByuN0-0"></a><br>
-<br>
-<br>
+## 📫 How to reach me
+- Location: Seoul, South Korea
+- Email: [isly7959@gmail.com](mailto:isly7959@gmail.com)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
+- Blog:[개발 블로그](https://byun0-0.tistory.com/)
+- Instagram:<a href="https://www.instagram.com/byun.ej/" target="_blank" rel="noreferrer">@byun.ej</a></p>
+- Baekjoon:<a href="https://www.acmicpc.net/user/islyee" target="_blank" rel="noreferrer">islyee</a></p>
 
-<p>Location: 대한민국 서울</p>
-<p>Email:<a href="mailto:isly7959@gmail.com">isly7959@gmail.com</a></p>
-<p>Instagram:<a href="https://www.instagram.com/byun.ej/" target="_blank" rel="noreferrer">@byun.ej</a></p>
-<p>Github:<a href="https://github.com/ByuN0-0" target="_blank" rel="noreferrer">ByuN0-0</a></p>
-<p>/&lt;&gt; Baekjoon:<a href="https://www.acmicpc.net/user/islyee" target="_blank" rel="noreferrer">islyee</a></p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
