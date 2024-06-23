@@ -7,7 +7,7 @@
 I'm a Backend Developer using Java, Spring Currently, I'm working on [Current Project/Work](https://github.com/HealthServiceForAll/HearUR-back).
 
 ## 🚀 My Projects
-- [Project 1](https://github.com/ByuN0-0/CRM-Project): CRM-Platporm project
+- [Project 1](https://github.com/ByuN0-0/CRM-Project): CRM-Platform project
 - [Project 2](https://github.com/HealthServiceForAll/HearUR-back): Health Care Application
 
 ## 🛠️ My Tech Stack
