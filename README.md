@@ -51,7 +51,6 @@ I'm a Backend Developer using Java, Spring Currently, I'm working on [Current Pr
 - Location: Seoul, South Korea
 - Email: [isly7959@gmail.com](mailto:isly7959@gmail.com)
 - Blog:[개발 블로그](https://byun0-0.tistory.com/)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
 - Instagram:<a href="https://www.instagram.com/byun.ej/" target="_blank" rel="noreferrer">@byun.ej</a></p>
 - Baekjoon:<a href="https://www.acmicpc.net/user/islyee" target="_blank" rel="noreferrer">islyee</a></p>
 
