@@ -37,7 +37,6 @@ I'm working on [Current Project/Work](https://github.com/HealthServiceForAll/Hea
 ### DevOps
 - Git, GitHub, GitHub Actions
 - Docker, Docker compose
-- Kubernetes
 
 ### Cloud Computing
 - AWS, GCP, Vercel
