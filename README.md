@@ -10,7 +10,7 @@ I'm working on [Current Project/Work](https://github.com/HealthServiceForAll/Hea
 ## 🚀 My Projects
 - [CRM-Platform project](https://github.com/ByuN0-0/CRM-Project): Backend 구현 및 Frontend API 요청 로직 구현 담당
 - [Health Care Backend](https://github.com/HealthCatcher/HearUR-back): Backend 구현
-- [Health Care Web Service](https://github.com/HealthCatcher/HearUR-front): Frontend 구현(Web Browser)
+- [Health Care Web Service](https://github.com/HealthCatcher/HearUR-front): Frontend 구현(Web Application)
 - [Health Care Android Application](https://github.com/HealthCatcher/HearUR-Android): Frontend 구현(Android Application)
   
 
