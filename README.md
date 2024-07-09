@@ -8,8 +8,8 @@ I'm a Backend Developer using Java, Spring Currently,
 I'm working on [Current Project/Work](https://github.com/HealthServiceForAll/HearUR-back).
 
 ## 🚀 My Projects
-- [CRM-Platform project](https://github.com/ByuN0-0/CRM-Project): Backend 구현 및 Frontend API 요청 로직 구현 담당
-- [Health Care Backend](https://github.com/HealthCatcher/HearUR-back): Backend 구현
+- [CRM-Platform project](https://github.com/ByuN0-0/CRM-Project): 2024년 1학기 캡스톤디자인 산출물 CRM Platform 제작 (Backend 구현 및 Frontend API 요청 로직 구현 담당)
+- [Health Care Backend](https://github.com/HealthCatcher/HearUR-back): HealthCatcher 건강 정보 서비스 어플리케이션, Backend 구현
 - [Health Care Web Service](https://github.com/HealthCatcher/HearUR-front): Frontend 구현(Web Application)
 - [Health Care Android Application](https://github.com/HealthCatcher/HearUR-Android): Frontend 구현(Android Application)
   
