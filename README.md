@@ -26,12 +26,12 @@ I'm working on [Current Project/Work](https://github.com/HealthCatcher/HealthHol
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" alt="docker" />
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" alt="git" />
 ### Backend
-- Java, Python, C++
+- Java, Python
 - Spring, Spring Boot, Spring MVC, Spring Security
-- Android Studio
 
 ### Frontend
 - React.js, Next.js, Javascript, TypeScript
+- Android Studio
 
 ### DBMS
 - MySQL, PostgreSQL, MariaDB
@@ -53,6 +53,7 @@ I'm working on [Current Project/Work](https://github.com/HealthCatcher/HealthHol
 ## 📫 How to reach me
 - Location: Seoul, South Korea
 - Email: [isly7959@gmail.com](mailto:isly7959@gmail.com)
+- Bussiness-Email: [byhwang@healthcatcher.net](mailto:byhwang@healthcatcher.net)
 - Blog:[개발 블로그](https://byun0-0.tistory.com/)
 - Instagram:<a href="https://www.instagram.com/byun.ej/" target="_blank" rel="noreferrer">@byun.ej</a></p>
 - Baekjoon:<a href="https://www.acmicpc.net/user/islyee" target="_blank" rel="noreferrer">islyee</a></p>
