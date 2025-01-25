@@ -11,9 +11,7 @@ I'm working on [Current Project/Work](https://github.com/HealthCatcher/HealthHol
 ## 🚀 My Projects
 - [CRM-Platform project](https://github.com/ByuN0-0/CRM-Project): 2024년 1학기 캡스톤디자인 산출물 CRM Platform 제작 (Backend 구현 및 Frontend API 요청 로직 구현 담당)
 - [Health Hola Backend](https://github.com/HealthCatcher/HealthHola-back): 헬스올라, 건강 정보 서비스 어플리케이션, Backend 구현
-- [Health Hola Android Application](https://github.com/HealthCatcher/HealthHola-Android): 헬스올라, Frontend 구현(Android Application)
   
-
 ## 🛠️ My Tech Stack
 <a href="https://github.com/anuraghazra/github-readme-stats/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByuN0-0"></a><br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" alt="react" />
