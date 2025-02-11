@@ -46,7 +46,7 @@ I'm working on [Current Project/Work](https://github.com/HealthCatcher/HealthHol
 - Vercel
 
 ### Communication Tool
-- GitHub, Notion, Discord
+- GitHub, Notion, Discord, Slack
 
 ## 📊 My GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=byun0-0&show_icons=true&theme=radical)
