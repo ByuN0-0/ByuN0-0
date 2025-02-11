@@ -26,6 +26,7 @@ I'm working on [Current Project/Work](https://github.com/HealthCatcher/HealthHol
 ### Backend
 - Java, Python
 - Spring, Spring Boot, Spring MVC, Spring Security
+- Flask
 
 ### Frontend
 - React.js, Next.js, Javascript, TypeScript
@@ -40,7 +41,9 @@ I'm working on [Current Project/Work](https://github.com/HealthCatcher/HealthHol
 - Docker, Docker compose
 
 ### Cloud Computing
-- AWS, GCP, Vercel
+- AWS EC2, S3 Bucket, RDS
+- GCP
+- Vercel
 
 ### Communication Tool
 - GitHub, Notion, Discord
