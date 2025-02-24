@@ -25,7 +25,7 @@ I'm working on [Current Project/Work](https://github.com/HealthCatcher/HealthHol
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" alt="git" />
 ### Backend
 - Java, Python
-- Spring, Spring Boot, Spring MVC, Spring Security
+- Spring, Spring Boot, Spring Data JPA, Spring Security
 - Flask
 
 ### Frontend
