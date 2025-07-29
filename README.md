@@ -5,8 +5,7 @@
 ## About Me
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=islyee)](https://solved.ac/profile/islyee)<br>
 I'm a Backend Developer using Java, Spring Currently, 
-I'm working on [Current Project/Work](https://github.com/HealthCatcher/HealthHola-back).
-[HealthCatcher](https://healthcatcher.net)
+I'm working on [BlynxLab](https://blynxlab.com)
 
 ## 🚀 My Projects
 - [CRM-Platform project](https://github.com/ByuN0-0/CRM-Project): 2024년 1학기 캡스톤디자인 산출물 CRM Platform 제작 (Backend 구현 및 Frontend API 요청 로직 구현 담당)
@@ -54,7 +53,7 @@ I'm working on [Current Project/Work](https://github.com/HealthCatcher/HealthHol
 ## 📫 How to reach me
 - Location: Seoul, South Korea
 - Email: [isly7959@gmail.com](mailto:isly7959@gmail.com)
-- Bussiness-Email: [byhwang@healthcatcher.net](mailto:byhwang@healthcatcher.net)
+- Bussiness-Email: [byhwang@blynx.co](mailto:byhwang@blynx.co)
 - Blog:[개발 블로그](https://byun0-0.tistory.com/)
 - Instagram:<a href="https://www.instagram.com/byun.ej/" target="_blank" rel="noreferrer">@byun.ej</a></p>
 - Baekjoon:<a href="https://www.acmicpc.net/user/islyee" target="_blank" rel="noreferrer">islyee</a></p>
