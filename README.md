@@ -4,12 +4,12 @@
 
 ## About Me
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=islyee)](https://solved.ac/profile/islyee)<br>
-I'm a Backend Developer using Java, Spring Currently, 
+I'm a Backend Developer using Java Spring & Node.js
 I'm working on [BlynxLab](https://blynxlab.com)
 
 ## 🚀 My Projects
 - [CRM-Platform project](https://github.com/ByuN0-0/CRM-Project): 2024년 1학기 캡스톤디자인 산출물 CRM Platform 제작 (Backend 구현 및 Frontend API 요청 로직 구현 담당)
-- [Health Hola Backend](https://github.com/HealthCatcher/HealthHola-back): 헬스올라, 건강 정보 서비스 어플리케이션, Backend 구현
+- [Health Hola Backend](https://github.com/HealthCatcher/HealthHola-back): 헬스캐처 스타트업|헬스올라, 건강 정보 서비스 어플리케이션, Backend-Infrastructure
   
 ## 🛠️ My Tech Stack
 <a href="https://github.com/anuraghazra/github-readme-stats/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByuN0-0"></a><br>
@@ -23,29 +23,31 @@ I'm working on [BlynxLab](https://blynxlab.com)
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" alt="docker" />
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" alt="git" />
 ### Backend
-- Java, Python
+- Java, Python, Node.js
 - Spring, Spring Boot, Spring Data JPA, Spring Security
-- Flask
-
+- Flask, FastAPI
+- NestJS
+  
 ### Frontend
 - React.js, Next.js, Javascript, TypeScript
+- React Native, Expo
 - Android Studio
+- Xcode
 
 ### DBMS
 - MySQL, PostgreSQL, MariaDB
 - MongoDB
-
+- Redis
+  
 ### DevOps
 - Git, GitHub, GitHub Actions
 - Docker, Docker compose
-
-### Cloud Computing
-- AWS EC2, S3 Bucket, RDS
+- AWS
 - GCP
 - Vercel
 
 ### Communication Tool
-- GitHub, Notion, Discord, Slack
+- Slack, GitHub, Notion, Discord
 
 ## 📊 My GitHub Stats
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=byun0-0&show_icons=true&theme=radical)
