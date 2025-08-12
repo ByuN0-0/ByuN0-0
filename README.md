@@ -9,7 +9,7 @@ I'm working on [BlynxLab](https://blynxlab.com)
 
 ## 🚀 My Projects
 - [CRM-Platform project](https://github.com/ByuN0-0/CRM-Project): 2024년 1학기 캡스톤디자인 산출물 CRM Platform 제작 (Backend 구현 및 Frontend API 요청 로직 구현 담당)
-- [Health Hola Backend](https://github.com/HealthCatcher/HealthHola-back): 헬스캐처 스타트업|헬스올라, 건강 정보 서비스 어플리케이션, Backend-Infrastructure
+- [Health Hola Backend](https://github.com/HealthCatcher/HealthHola-back): 헬스캐처 스타트업 | 헬스올라, 건강 정보 서비스 어플리케이션, Backend-Infrastructure
   
 ## 🛠️ My Tech Stack
 <a href="https://github.com/anuraghazra/github-readme-stats/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByuN0-0"></a><br>
@@ -35,11 +35,12 @@ I'm working on [BlynxLab](https://blynxlab.com)
 - Xcode
 
 ### DBMS
-- MySQL, PostgreSQL, MariaDB
+- MySQL, PostgreSQL
 - MongoDB
 - Redis
-  
+
 ### DevOps
+- Terraform
 - Git, GitHub, GitHub Actions
 - Docker, Docker compose
 - AWS
