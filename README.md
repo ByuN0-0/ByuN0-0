@@ -54,9 +54,10 @@ I'm working on [BlynxLab](https://blynxlab.com)
 
 ## 📫 How to reach me
 - Location: Seoul, South Korea
-- Email: [isly7959@gmail.com](mailto:isly7959@gmail.com)
+- Email: [devbyeon@gmail.com](mailto:devbyeon@gmail.com)
 - Bussiness-Email: [byhwang@blynx.co](mailto:byhwang@blynx.co)
 - Blog:[개발 블로그](https://byun0-0.tistory.com/)
+- LinkedIn:<a href="https://www.linkedin.com/in/biyeon-hwang-854190376/" target="_blank" rel="noreferrer">Biyeon Hwang</a></p>
 - Instagram:<a href="https://www.instagram.com/byun.ej/" target="_blank" rel="noreferrer">@byun.ej</a></p>
 - Baekjoon:<a href="https://www.acmicpc.net/user/islyee" target="_blank" rel="noreferrer">islyee</a></p>
 
