@@ -8,7 +8,7 @@ I'm a Backend Developer using Java Spring & Node.js
 I'm working on [BlynxLab](https://blynxlab.com)
 
 ## 🚀 My Projects
-- [CRM-Platform project](https://github.com/ByuN0-0/CRM-Project): 2024년 1학기 캡스톤디자인 산출물 CRM Platform 제작 (Backend 구현 및 Frontend API 요청 로직 구현 담당)
+- [CRM-Platform Project](https://github.com/ByuN0-0/crm-platform): 2024년 1학기 캡스톤디자인 산출물 CRM Platform 제작 (Backend 구현 및 Frontend API 요청 로직 구현 담당)
 - [Health Hola Backend](https://github.com/HealthCatcher/HealthHola-back): 헬스캐처 스타트업 | 헬스올라, 건강 정보 서비스 어플리케이션, Backend-Infrastructure
   
 ## 🛠️ My Tech Stack
