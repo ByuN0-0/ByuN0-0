@@ -9,7 +9,6 @@ I'm working on [BlynxLab](https://blynxlab.com)
 - [Health Hola Backend](https://github.com/HealthCatcher/HealthHola-back): 헬스캐처 스타트업 | 헬스올라, 건강 정보 서비스 어플리케이션, Backend-Infrastructure
   
 ## 🛠️ My Tech Stack
-<a href="https://github.com/anuraghazra/github-readme-stats/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByuN0-0"></a><br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" alt="react" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" alt="python" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="javascript"/>
