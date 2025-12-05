@@ -1,9 +1,6 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=islyee)](https://solved.ac/profile/islyee/)
-
-# Hi there, I'm BiYeon 👋
+# Hi there, I'm BiYeon 
 
 ## About Me
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=islyee)](https://solved.ac/profile/islyee)<br>
 I'm a Backend Developer using Java Spring & Node.js
 I'm working on [BlynxLab](https://blynxlab.com)
 
@@ -49,9 +46,6 @@ I'm working on [BlynxLab](https://blynxlab.com)
 
 ### Communication Tool
 - Slack, GitHub, Notion, Discord
-
-## 📊 My GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=byun0-0&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 - Location: Seoul, South Korea
