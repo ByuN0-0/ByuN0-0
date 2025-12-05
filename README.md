@@ -9,6 +9,7 @@ I'm working on [BlynxLab](https://blynxlab.com)
 - [Health Hola Backend](https://github.com/HealthCatcher/HealthHola-back): 헬스캐처 스타트업 | 헬스올라, 건강 정보 서비스 어플리케이션, Backend-Infrastructure
   
 ## 🛠️ My Tech Stack
+<a href="https://github.com/anuraghazra/github-readme-stats/">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" alt="react" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" alt="python" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="javascript"/>
@@ -18,6 +19,7 @@ I'm working on [BlynxLab](https://blynxlab.com)
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="aws" />
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white" alt="docker" />
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" alt="git" />
+
 ### Backend
 - Java, Python, Node.js
 - Spring, Spring Boot, Spring Data JPA, Spring Security
@@ -49,10 +51,7 @@ I'm working on [BlynxLab](https://blynxlab.com)
 ## 📫 How to reach me
 - Location: Seoul, South Korea
 - Email: [devbyeon@gmail.com](mailto:devbyeon@gmail.com)
-- Bussiness-Email: [byhwang@blynx.co](mailto:byhwang@blynx.co)
 - Blog:[개발 블로그](https://byun0-0.tistory.com/)
 - LinkedIn:<a href="https://www.linkedin.com/in/biyeon-hwang-854190376/" target="_blank" rel="noreferrer">Biyeon Hwang</a></p>
-- Instagram:<a href="https://www.instagram.com/byun.ej/" target="_blank" rel="noreferrer">@byun.ej</a></p>
-- Baekjoon:<a href="https://www.acmicpc.net/user/islyee" target="_blank" rel="noreferrer">islyee</a></p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=byun0-0&color=brightgreen)
